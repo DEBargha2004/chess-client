@@ -1,0 +1,11 @@
+export type SignInPageErrorParam =
+  | 'Signin'
+  | 'OAuthSignin'
+  | 'OAuthCallbackError'
+  | 'OAuthCreateAccount'
+  | 'EmailCreateAccount'
+  | 'Callback'
+  | 'OAuthAccountNotLinked'
+  | 'EmailSignin'
+  | 'CredentialsSignin'
+  | 'SessionRequired'

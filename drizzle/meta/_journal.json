@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1722183973539,
+      "tag": "0000_fine_silhouette",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1722342631905,
+      "tag": "0001_parallel_thaddeus_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1722598263373,
+      "tag": "0002_damp_thaddeus_ross",
+      "breakpoints": true
+    }
+  ]
+}
